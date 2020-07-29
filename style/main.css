@@ -1,0 +1,27 @@
+body {
+    background: darkseagreen;
+}
+
+.box {
+    width: 1170px;
+    margin: 10% auto;
+}
+
+figure {
+    overflow: hidden;
+    width: 350px;
+    height: 400px;
+    float: left;
+    margin: 0 15px;
+    border: 5px solid #fff;
+}
+
+figure img {
+    transition: transform 0.5s ease;
+    width: 100%;
+}
+
+figure:hover img {
+    transform: scale(1.3) rotate(-10deg);
+    cursor: pointer;
+}
