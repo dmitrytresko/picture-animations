@@ -1,3 +1,3 @@
-# lesson-2-advanced
+# picture-animations
 
-https://dmitry-tresko.github.io/lesson-2-advanced/
+https://dmitrytresko.github.io/picture-animations/
